@@ -30,7 +30,7 @@ A fully browser-based Digital Signal Processing (DSP) app built with **Streamlit
 
 ## 🧪 Live Demo
 
-> [Launch the App on Streamlit Cloud](https://share.streamlit.io/your-username/your-repo-name/main)
+> [Launch the App on Streamlit Cloud](https://simple-dsp-audio-effects-v1-app.streamlit.app/)
 
 ---
 
